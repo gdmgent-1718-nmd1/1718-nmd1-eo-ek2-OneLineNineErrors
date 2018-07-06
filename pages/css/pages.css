@@ -16,3 +16,13 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+table, th, td{
+    border: 1px solid rgb(50, 50, 50);
+    border-collapse: collapse;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+}
