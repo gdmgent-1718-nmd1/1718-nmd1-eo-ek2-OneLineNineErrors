@@ -11,6 +11,10 @@ body {
     padding: 25px;
 }
 
+h3{
+    padding-left: 25px;
+}
+
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
