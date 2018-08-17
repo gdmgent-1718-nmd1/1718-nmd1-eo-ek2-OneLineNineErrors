@@ -26,6 +26,8 @@ h2{
 h3{
     font-family: 'Oxygen', sans-serif;
     padding-left: 25px;
+    font-size: 14pt;
+    font-weight: 700;
 }
 
 p{
@@ -134,7 +136,7 @@ a:hover{
     max-width: 70%;
     border: 5px solid #99434c;
     padding: 25px;
-    margin: 20px;
+    margin: 20px 20px 0 20px;
     width: 700px;
     
     
