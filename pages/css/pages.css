@@ -12,16 +12,19 @@ body {
 }
 
 h1{
+    font-family: 'Oxygen', sans-serif;
     font font-weight: 700;
     font-size: 30pt;
 }
 
 h2{
+    font-family: 'Oxygen', sans-serif;
     color: #660b14;
     font-size: 16pt;
 }
 
 h3{
+    font-family: 'Oxygen', sans-serif;
     padding-left: 25px;
 }
 
@@ -80,6 +83,12 @@ td{
     background-color: #f4a086;
 }
 
+.backgroundcolor{
+    background-color: #56a9cc;
+    padding: 5px;
+    color: #fff;
+}
+
 /*----------------------------------------------------------*/
 
 button{
@@ -118,4 +127,15 @@ a{
 
 a:hover{
     background-color: #f4a086;
+}
+
+.box{
+    background-color: #fff;
+    max-width: 70%;
+    border: 5px solid #99434c;
+    padding: 25px;
+    margin: 20px;
+    width: 700px;
+    
+    
 }
